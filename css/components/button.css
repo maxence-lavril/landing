@@ -1,0 +1,32 @@
+.btn-blue{
+	background-color:rgb(248, 67, 0);
+	padding:15px 20px;
+	border-radius:4px;
+	color:black;
+	font-weight: bold;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.btn-blue:hover{
+	background-color:rgb(247, 142, 103);
+	color:white;
+}
+
+.list-inline{
+	list-style:none;
+	padding-left:0px;
+}
+
+.list-inline li{
+	display:inline;
+	padding:10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: rgb(247, 142, 103);
+}
+
+.list-inline i:hover{
+	color: rgb(248, 67, 0);
+}

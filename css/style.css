@@ -1,0 +1,50 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Libre+Baskerville:ital@1&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+ body {
+	background-color: #FBF8F1;
+	color: rgb(30,30,30);
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	line-height: 1.6;
+	margin:0px;
+	text-align :center;
+ }
+
+
+h1, h2, h3 {
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	font-size: 32px;
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+h2{
+	color: rgb(248, 67, 0);
+	font-size: 24px;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: lighter;
+}
+
+h3{
+	color: rgb(248, 67, 0);
+	font-size: 21px;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+ a{
+ 	text-decoration: none;
+ 	font-family: 'Lato', sans-serif;
+ }
